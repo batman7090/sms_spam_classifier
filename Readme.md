@@ -72,6 +72,16 @@ The Streamlit app allows users to enter an SMS or email message and receive an i
 
 ---
 
+## Ouput Examples
+
+### Spam
+![spam image](artifacts/images/spam.png)
+
+### Not Spam
+![Not spam image](artifacts/images/not_spam.png)
+---
+
+
 ## How to Run the Project
 
 ### 1. Clone the Repository
