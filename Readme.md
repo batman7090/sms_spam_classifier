@@ -14,7 +14,7 @@ The classifier is trained on the SMS Spam Collection dataset and uses TF-IDF fea
 
 ## Dataset
 
-- **Dataset:** SMS Spam Collection
+- **Dataset:** [SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 - **Classes:**
   - `ham` → Not Spam (0)
   - `spam` → Spam (1)
